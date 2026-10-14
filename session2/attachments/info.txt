@@ -1,0 +1,6 @@
+Ahmed mostapha , 15500 , AEngineer
+hachem rabi3 , 15400 , AEngineer
+albert fox , 15200 , DEngineer
+lionel messi , 15300 , CEngineer
+Aymane Galibou , 15100 , SEngineer     
+
