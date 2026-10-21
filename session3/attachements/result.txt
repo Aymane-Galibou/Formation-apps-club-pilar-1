@@ -1,0 +1,34 @@
+ERROR: something wrong 
+ERROR: something wrong 
+ALERT: something not good
+ERROR: something wrong 
+ERROR: something wrong 
+ERROR: something wrong 
+ERROR: something wrong 
+ALERT: something not good
+ALERT: something not good
+ALERT: something not good
+ALERT: something not good
+DEBUG: code is being debugged
+DEBUG: code is being debugged 
+DEBUG: code is being debugged 
+DEBUG: code is being debugged 
+DEBUG: code is being debugged 
+ERROR: something wrong 
+ERROR: something wrong 
+ALERT: something not good
+ERROR: something wrong 
+ ERROR: something wrong 
+ERROR: something wrong 
+ERROR: something wrong 
+ALERT: something not good
+ALERT: something not good
+ALERT: something not good
+ALERT: something not good
+DEBUG: code is being debugged
+DEBUG: code is being debugged 
+DEBUG: code is being debugged 
+DEBUG: code is being debugged 
+DEBUG: code is being debugged 
+ERROR: something wrong
+The problem was solved by the responsible engineer
